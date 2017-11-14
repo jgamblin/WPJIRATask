@@ -1,5 +1,5 @@
 # WPJIRATask
-A script to check your Wordpress install and create a JIRA ticket if it is out of date.
+A script to check your Wordpress install and create a JIRA task if it is out of date.
 
 ## Script
 You need to fill in the variables in wpjira.sh with your Wordpress URL, JIRA URL, JIRA username and JIRA password.
