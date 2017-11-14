@@ -1,5 +1,5 @@
 #!/bin/bash
-url="$1"
+url=""
 jiraurl=""
 jirausername=""
 jirapassword=""
